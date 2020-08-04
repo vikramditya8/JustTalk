@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "353888439042",
+    "firebase_url": "https://justtalk-ae818.firebaseio.com",
+    "project_id": "justtalk-ae818",
+    "storage_bucket": "justtalk-ae818.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353888439042:android:5d7dc8d37fe3bf1431d01b",
+        "android_client_info": {
+          "package_name": "com.example.justalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353888439042-63u649gdtkbcjdm0l25e64ia7p4ocesv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.justalk",
+            "certificate_hash": "aebbf14eda2179d4995655632a5b173f73f57c22"
+          }
+        },
+        {
+          "client_id": "353888439042-etn2orj0d7ik4fuhrn6j5qoupnln9ncm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1RvOIDedG75ErK3ANw80vws5e0lbY8YQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353888439042-etn2orj0d7ik4fuhrn6j5qoupnln9ncm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
